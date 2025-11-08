@@ -96,6 +96,10 @@ postman -Method POST -Uri http://localhost:3000/api/product/addTOCart -Body (@{ 
 
 ## Screenshots
 
+<img width="1899" height="858" alt="Screenshot 2025-11-08 123750" src="https://github.com/user-attachments/assets/1bd838e1-5b2d-4a56-b158-59ac139138b4" />
+<img width="1913" height="849" alt="Screenshot 2025-11-08 123812" src="https://github.com/user-attachments/assets/1e7c8026-3afd-4140-b713-a9473bf52840" />
+<img width="752" height="362" alt="Screenshot 2025-11-08 123838" src="https://github.com/user-attachments/assets/e7f2f059-0d52-48e3-ad5e-151bf3d9d042" />
+<img width="1467" height="580" alt="Screenshot 2025-11-08 123852" src="https://github.com/user-attachments/assets/e1ed4026-1dd1-4be1-9115-12ab99a69271" />
 
 ## What the app does (brief)
 
